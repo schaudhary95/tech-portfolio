@@ -5,10 +5,9 @@ title: Projects
 
 Embed any notable projects in this page.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+Project was about adding Python code in Git repository. Code was about Retirement, where we had to find a date of retirment with birthdate information provided by user.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
+You can list [links](https://github.com/birrynorikey2/team2)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+![Add alternate text for image](./assets/Capture.PNG)
