@@ -1,6 +1,6 @@
 ---
-id: projects
-title: Projects
+id: Git project
+title: Retirement calculator
 ---
 
 Embed any notable projects in this page.
